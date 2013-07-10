@@ -1,9 +1,0 @@
-{
-  "modules" : { 
-    "ipx"  : {
-      "description": "Petit test d'accès à la IPX",
-      "version"    : "1.0",
-      "api_url": "http://[FIX ME]/leds.cgi"
-    }
-  }
-}
